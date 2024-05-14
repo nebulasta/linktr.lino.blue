@@ -1,6 +1,9 @@
 +++
 +++
 *linktr.lino.blue*
-- telegram
-- discord
-- anilist
+- [anilist](https://anilist.co/user/nebulasta/)
+- ko-fi
+- bookmeter
+- 連絡
+    - [telegram](https://t.me/linoblue233)
+    - discord
